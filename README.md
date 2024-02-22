@@ -1,7 +1,5 @@
 # Business Understanding
-The company is planning to diversify by purchasing and operating airplanes for commercial and private enterprises. The Head of Aviaion will make\
-the decision on which airplane to purchse. Therefore ,they nees insights into which aircrafts will assume the least amount of risk to the compnay/
-and provide the most safety for the customer.   
+The company is planning to diversify by purchasing and operating airplanes for commercial and private enterprises. The Head of Aviation will decide on which airplane to purchase. Therefore, they need insights into which aircraft will assume the least amount of risk to the company and provide the most safety for the customer.   
 
 # Data Uunderstanding
 
