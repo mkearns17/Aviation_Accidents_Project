@@ -20,7 +20,7 @@ The dataset includes incidents from 60 years ago, but this date range is too far
 
 In the past 60 years, 85% of airplane crashes include airplanes with a single engine. Only airplanes with at least two engines should be considered to determine the safest aircraft.
 
-![img](./images/Number_engines_crashes_hist.png.png)
+![img](./images/Number_engines_crashes_hist.png)
 
 The following figure shows the airplane makes/models with the highest number of incidents in the past 30 years among large airplanes (passenger capacity over 100) and small airplanes (passenger capacity < 20), and their respective average number of fatal injuries.
 
@@ -28,7 +28,7 @@ The following figure shows the airplane makes/models with the highest number of 
 
 The number of crashes among major manufacturers has generally decreased over the past 30 years. Note that either no incidents occurred or were reported between the years 2000-2008.
 
-![img](./images/crashes_per_yr.png.png)
+![img](./images/crashes_per_yr.png)
 
 # Conclusion and Recommendations
 
