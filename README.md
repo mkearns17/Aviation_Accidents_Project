@@ -43,8 +43,6 @@ The analysis leads to the following three recommendations for the Head of Aviati
       If the company plans to operate flights with fewer than 20 passengers, the **Beech 1900D** and **Cessna 402** should be considered. They have the lowest fatality rates in the past 30 years among small plane models. 
   5) The number of plane crashes per year is trending down. This is expected to continue, therefore **safety reviews** of the company's fleet should be conducted **every 10 years** to ensure they own and operate the safest planes on the market.
      
-## Limitations
-
 ## Next Steps
 
 Additional analysis can be conducted to assist the Head of Aviation. I believe the following questions should be considered next:
