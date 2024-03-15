@@ -34,6 +34,10 @@ The number of crashes among major manufacturers has generally decreased over the
 
 ![img](./images/crashes_per_yr.png)
 
+## Tableau Dashboard
+
+Please refer to my [interactive dashboard] (https://public.tableau.com/views/AviationAccientsAnalysis/AviationAccidentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) "Aviation Accidents Dashboard" for more visualizations.
+
 # Conclusion and Recommendations
 
 The analysis leads to the following three recommendations for the Head of Aviation:
