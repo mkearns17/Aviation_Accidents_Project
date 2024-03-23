@@ -2,6 +2,8 @@
 
 by Michael Kearns
 
+![img](./images/airplane.jpeg)
+
 # Business Understanding
 
 The company is planning to purchase airplanes to expand the business and begin operating commercial and private flights. The Head of Aviation wants to know which airplanes are the lowest risk for the company to purchase. My analysis will help them determine which manufacturers and models have the lowest fatality rates from the past 30 years. After my recommendations, the Head of Aviation plans to determine the costs of purchasing and maintaining these airplanes.
