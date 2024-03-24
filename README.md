@@ -38,7 +38,7 @@ The number of crashes among major manufacturers has generally decreased over the
 
 ## More Information
 
-Please refer to my [jupyter notebook](./Aviation_Phase1_Project.ipynb) for the complete analysis, my [interactive dashboard](https://public.tableau.com/views/AviationAccientsAnalysis/AviationAccidentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link "Aviation Accidents Dashboard") for more visualizations, and my [presentation](./Aviation_Accidents_Project_Presenation.pdf) 
+Please refer to my [jupyter notebook](./Aviation_Phase1_Project.ipynb) for the complete analysis, my [interactive dashboard](https://public.tableau.com/views/AviationAccientsAnalysis/AviationAccidentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link "Aviation Accidents Dashboard") for more visualizations, and my [presentation](./Aviation_Accidents_Project_Presentation.pdf) 
 
 # Conclusion and Recommendations
 
