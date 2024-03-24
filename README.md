@@ -55,3 +55,13 @@ Additional analysis can be conducted to assist the Head of Aviation. I believe t
 
 * What are the financial costs of owning/operating these planes? What are the maintenance costs? What is the profitability of this business?
 * Where should our planes be operated? Are there specific airports and locations that we will fly to to reduce the possibility of crashes?
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── Aviation_Accidents_Project_Presentation.pdf
+└── Aviation_Accidents_Project.ipynb
+```
