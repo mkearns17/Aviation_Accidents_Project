@@ -10,7 +10,7 @@ The company is planning to purchase airplanes to expand the business and begin o
 
 # Data Understanding
 
-The dataset is from the National Transportation Safety Board. It includes civil aviation accidents and other selected incidents from 1962 to 2023. This step is focused on understanding what is in the dataset so it can be further analyzed to answer the business question.
+The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) is from the National Transportation Safety Board. It includes civil aviation accidents and other selected incidents from 1962 to 2023. This step is focused on understanding what is in the dataset so it can be further analyzed to answer the business question.
 
 Each record of this dataset represents an aviation accident, marked by the "Event ID", with information about the plane (make, model, etc.) and the severity of the accident (# of injuries). This information is useful to determine which airplane manufacturers and models have the lowest fatality rates.
 
@@ -36,9 +36,9 @@ The number of crashes among major manufacturers has generally decreased over the
 
 ![img](./images/crashes_per_yr.png)
 
-## Tableau Dashboard
+## More Information
 
-Please refer to my [interactive dashboard](https://public.tableau.com/views/AviationAccientsAnalysis/AviationAccidentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link "Aviation Accidents Dashboard") for more visualizations.
+Please refer to my [jupyter notebook](./Aviation_Phase1_Project.ipynb) for the complete analysis, my [interactive dashboard](https://public.tableau.com/views/AviationAccientsAnalysis/AviationAccidentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link "Aviation Accidents Dashboard") for more visualizations, and my [presentation](./Aviation_Accidents_Project_Presenation.ppx) 
 
 # Conclusion and Recommendations
 
